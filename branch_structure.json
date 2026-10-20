@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "fix/issue-131-quality-archive-oracle-provider-vectors-for",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "fix/issue-131-quality-archive-oracle-provider-vectors-for": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "fix/issue-131-quality-archive-oracle-provider-vectors-for",
+    "origin"
+  ]
+}
